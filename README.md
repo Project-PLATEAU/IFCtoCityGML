@@ -1,12 +1,12 @@
 # FMEを用いたIFCからCityGMLへの変換フォーマット
 # 概要
-FMEによるIFCデータからCityGMLデータへの変換フォーマットです。
-本ソフトウェアは、国土交通省の[Project PLATEAU](https://www.mlit.go.jp/plateau/)で利用したものです。
+* FMEによるIFCデータからCityGMLデータへの変換フォーマットです。
+* 本ソフトウェアは、国土交通省の[Project PLATEAU](https://www.mlit.go.jp/plateau/)で利用したものです。
 
 ## 前提ソフトウェア
 
-前提ソフトウェア
-・商用ソフトウェア：[FME Desktop](https://www.safe.com/fme/fme-desktop/)
+* 前提ソフトウェア
+* 商用ソフトウェア：[FME Desktop](https://www.safe.com/fme/fme-desktop/)
 
 ### 利用方法
 
@@ -25,10 +25,10 @@ FMEによるIFCデータからCityGMLデータへの変換フォーマットで�
 
 ## 開発について
 
-本ソフトウェアは[hollyatsafe](https://community.safe.com/s/profile/0050c00000CztYeAAJ)が開発した[BIM to GIS (Intermediate) | IFC LOD 300 to LOD 4 CityGML](https://community.safe.com/s/article/bim-to-gis-intermediate-ifc-lod-300-to-lod-4-cityg)を参照し開発したものです。
+* 本ソフトウェアは[hollyatsafe](https://community.safe.com/s/profile/0050c00000CztYeAAJ)が開発した[BIM to GIS (Intermediate) | IFC LOD 300 to LOD 4 CityGML](https://community.safe.com/s/article/bim-to-gis-intermediate-ifc-lod-300-to-lod-4-cityg)を参照し開発したものです。
 
 ## License
-本ソフトウェアはApache-2.0 Licenceを適用します。
+* 本ソフトウェアは[Apache-2.0 Licence](ttps://github.com/Project-PLATEAU/CityGML-geometry-validator/blob/main/LICENSE)を適用します。
 
 ### 注意事項
 * 本レポジトリは参考資料として提供しているものです。動作保証は行っておりません。
