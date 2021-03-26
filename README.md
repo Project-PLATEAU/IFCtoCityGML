@@ -1,2 +1,2 @@
 # IFCtoCityGML
-IFCデータをCityGMLデータへの変換フォーマット/FME
+IFCデータからCityGMLデータへの変換フォーマット/FME
