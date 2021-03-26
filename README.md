@@ -1,3 +1,4 @@
+# FMEを用いたIFCからCityGMLへの変換フォーマット
 # 概要
 FMEによるIFCデータからCityGMLデータへの変換フォーマットです。
 本ソフトウェアは、国土交通省のProject PLATEAUで利用したものです。
